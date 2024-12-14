@@ -57,7 +57,7 @@ pkg install yarn
 git clone (copy and paste your forked repo link not mine to save changes your changes) 
 ```
 ```
-cd C_Suit_V2
+cd C-Suit-v2-1
 ```
 ```
 yarn install
