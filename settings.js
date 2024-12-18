@@ -34,7 +34,12 @@ global.link = 'https://whatsapp.com/channel/0029ValF0TZEAKWNPknJ6I0I'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
-
+//panel
+global.apikey = 'YOUR_API_KEY' // Isi Apikey Plta Lu
+global.capikey = 'YOUR_CAPI_KEY' // Isi Apikey Pltc Lu
+global.eggsnya = '15' // id eggs yang dipakai
+global.location = '1' // id location
+global.domain = 'YOUR_DOMAIN'
 //false=disable and true=enable
 global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
