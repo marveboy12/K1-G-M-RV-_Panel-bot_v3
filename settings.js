@@ -35,11 +35,11 @@ global.link = 'https://whatsapp.com/channel/0029ValF0TZEAKWNPknJ6I0I'
 //custom prefix
 global.prefa = ['','!','.','#','&']
 //
-global.apikey = 'ptla_TszurCCtpGyBlrMqHCVXglzLTtASGrXD731aG8LPoYs' // Isi Apikey Plta Lu
-global.capikey = 'ptlc_3PQcBDCbRvFy9v2zS0zhMicdgQWTg3TM7LKzL5XNokN' // Isi Apikey Pltc Lu
+global.apikey = 'ptla....' // Isi Apikey Plta Lu
+global.capikey = 'ptlc....' // Isi Apikey Pltc Lu
 global.eggsnya = '15' // id eggs yang dipakai
 global.location = '1' // id location
-global.domain = 'https://panprivate.brannhosting.web.id' // isi dengan domain panel lu
+global.domain = 'https://' // isi dengan domain panel lu
 
 //false=disable and true=enable
 global.anticall = true; //default state of this feature
