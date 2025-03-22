@@ -1,4 +1,4 @@
-///base by LOSTBOY X LORDTECH
+///base by K1ÑG MÅRVË 
 //re-upload? recode? copy code? give credit ya :)
 //YouTube: @
 //Instagram: 
@@ -11,26 +11,26 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "+233549551004"
-global.ownername = "LOSTBOY"
+global.ownernomer = "+2348064512910"
+global.ownername = "K1ÑG MÅRVË"
 global.ytname = "YT: "
-global.socialm = "GitHub: LOSTBOY246"
-global.location = "Ghana, Kumasi , Kwadaso"
+global.socialm = "GitHub: MARVEBOY12"
+global.location = "NIGERIA, LAGOS , IKORODU"
 
-global.ownernumber = '+233549551004'  //creator number
-global.ownername = 'LOSTBOY' //owner name
-global.botname = 'C-SUIT BUG BOT' //name of the bot
+global.ownernumber = '+2348064512910'  //creator number
+global.ownername = 'K1ÑG MÅRVË' //owner name
+global.botname = 'KING MARVE-PANEL BUG BOT' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'LOSTBOY\n\nContact: +233549551004'
+global.author = 'K1ÑG MÅRVË\n\nContact: +2348064512910'
 
 //console view/theme
 global.themeemoji = '🪀'
 global.wm = "BOTS INC."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029ValF0TZEAKWNPknJ6I0I'
+global.link = 'https://whatsapp.com/channel/0029Vaumsxs4NVisDZeGSJ3e'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
