@@ -1,5 +1,5 @@
 {
-    "name": "CSUIT V3",
+    "name": "KING MARVE PANEL BOT V3",
     "version": "6.0.0",
     "description": "A telegram bot to crash whatsapp user",
     "main": "index.js",
@@ -17,7 +17,7 @@
         "bot",
         "telegram-bot"
     ],
-    "author": "LOSTBOY",
+    "author": "KING MARVE",
     "license": "MIT",
     "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
